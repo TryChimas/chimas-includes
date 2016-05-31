@@ -34,3 +34,6 @@
 [submodule "vendor/events"]
 	path = vendor/events
 	url = https://github.com/TryChimas/events.git
+[submodule "vendor/click"]
+	path = vendor/click
+	url = https://github.com/TryChimas/click.git
