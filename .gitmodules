@@ -37,3 +37,6 @@
 [submodule "vendor/click"]
 	path = vendor/click
 	url = https://github.com/TryChimas/click.git
+[submodule "vendor/flask-sqlalchemy"]
+	path = vendor/flask-sqlalchemy
+	url = https://github.com/TryChimas/flask-sqlalchemy
