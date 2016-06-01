@@ -41,5 +41,5 @@
 	path = vendor/flask-sqlalchemy
 	url = https://github.com/TryChimas/flask-sqlalchemy
 [submodule "toml"]
-	path = toml
+	path = vendor/toml
 	url = https://github.com/TryChimas/toml
